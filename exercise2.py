@@ -21,11 +21,11 @@ for k, v in numbers.items():
 
 squared_10 = numbers[10]['squared']
 
-cubed_75 = ''
-doubled_7 = ''
-tripled_89 = ''
-squared_42 = ''
-cubed_97 = ''
+cubed_75 = numbers[75]['cubed']
+doubled_7 = numbers[7]['doubled']
+tripled_89 = numbers[89]['tripled']
+squared_42 = numbers[42]['squared']
+cubed_97 = numbers[97]['cubed']
 
 # DO NOT EDIT BELOW THIS LINE
 
